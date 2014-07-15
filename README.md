@@ -1,5 +1,4 @@
-# tic-tac-toe
-===========
+# Tic Tac Toe
 
 Código feito durante o 1º Hangout do JS.call(JF)
 
